@@ -1,3 +1,8 @@
+# About this project
+
+This project was created as a part of [The Odin Project curriculum](https://www.theodinproject.com/). \
+It is a memory game where the player has to select every single card without selecting the same one (duplicate) twice, otherwise the player loses the game.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
